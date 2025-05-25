@@ -5,16 +5,13 @@ Feel free to download, print, remix, or repost with proper attribution.
 
 ## Available assets
 
-- `pirates-code-poster.png`  
-  → Full illustrated poster with all 7 PIRATES principles
-
-- `logo-transparent.png`  
-  → Hand-drawn Benchy with crossed nozzles, transparent background
-
 - `logo-on-parchment.jpg`  
   → Ink-style logo on parchment texture
 
 - `badge-we-follow.svg`  
+  → Small badge to add in your project or README (for projects following the PIRATES Code)
+
+- `badge-we-sail.svg`  
   → Small badge to add in your project or README (for projects following the PIRATES Code)
 
 ## License
