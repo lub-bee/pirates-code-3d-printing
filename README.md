@@ -19,9 +19,8 @@ Think strength, simplicity, and printability.
 
 ---
 
-### **I** – **Integrate hybrid solutions**  
-Screws, wood, glue, clamps — not cheating, just smart.  
-If you can solve it better with real-world parts, do it.
+### **I** – **Integrate hybrid design – it’s smart engineering**  
+Wood, screws, glue, zip ties — these aren’t cheats. They’re tools. Use them wisely.
 
 ---
 
