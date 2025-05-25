@@ -34,6 +34,7 @@ Split your model, think in pieces, and **earn your colors**.
 ### **A** – **Avoid spectacle for spectacle’s sake**  
 > *"Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should."*  
 > – Dr. Ian Malcolm, Jurassic Park  
+
 Scaling up doesn't always scale value. Print smarter, not just bigger.  
 **Unless you're printing your ego — then by all means, go full AMS.**
 
