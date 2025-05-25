@@ -1,6 +1,12 @@
 # THE PIRATES CODE  
 *A 3D Printing Manifesto for Makers Who Still Have Standards*
 
+![We follow the PIRATES Code](assets/badge-we-follow.svg)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey)
+![Poster Available](https://img.shields.io/badge/poster-available-blue)
+![Translations Welcome](https://img.shields.io/badge/translations-welcome-orange)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 > A guide for smarter, leaner, and less dumb printing.
 
 ---
